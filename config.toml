@@ -88,14 +88,14 @@ paginate = 6
   name = "{Budi|Andi|Joko|Eko|Rudi|Agus|Fajar|Dedi|Hendra|Samsul}"
   message = "{Saya {menggunakan|memanfaatkan|memakai} layanan {pemasangan teralis|instalasi teralis} dari teralis.bangunan.co untuk {rumah|hunian} saya. Hasilnya {sangat rapi|benar-benar rapi|memuaskan} dan kualitasnya {luar biasa|sangat baik|hebat}|Saya {memanfaatkan|menggunakan|memakai} layanan {pemasangan teralis|instalasi teralis} dari teralis.bangunan.co untuk {rumah|hunian} saya. Hasilnya {sangat memuaskan|benar-benar memuaskan|memuaskan sekali} dan kualitasnya {luar biasa|sangat baik|hebat}}."
   response = "{Terima kasih atas {kepercayaan|kepercayaan Anda}! Kami {senang|gembira|bahagia} dapat menyediakan teralis {berkualitas|yang berkualitas} untuk {rumah|hunian} Anda|Kami menghargai {kepercayaan|kepercayaan Anda}! Senang bisa menyediakan teralis {berkualitas|yang berkualitas} untuk {rumah|hunian} Anda.}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar2.png"
   name = "{Siti|Rina|Ayu|Dewi|Lina|Maya|Putri|Ratna|Nina|Ika}"
   message = "{teralis.bangunan.co {sangat membantu|benar-benar membantu|membantu sekali} saya dalam {memilih|menggali|mencari} dan {memasang|melakukan pemasangan} pagar besi yang {sesuai|cocok} dengan {kebutuhan|keperluan} rumah saya. Pelayanannya {sangat memuaskan|benar-benar memuaskan|memuaskan sekali}|teralis.bangunan.co {benar-benar membantu|sangat membantu|bantu sekali} saya dalam {memilih|mencari|menggali} dan {memasang|melakukan pemasangan} pagar besi yang {tepat|cocok} untuk {rumah|hunian} saya. Pelayanannya {sangat memuaskan|benar-benar memuaskan|memuaskan sekali}}."
   response = "{Kami {sangat|amat} menghargai ulasan Anda. Senang mendengar bahwa Anda {puas|senang|terkesan} dengan pagar besi dari kami|Kami menghargai {feedback|ulasannya}. Senang mengetahui Anda {puas|senang|terkesan} dengan pagar besi yang kami sediakan.}"
-  rating = 4.8
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar3.png"
@@ -116,14 +116,14 @@ paginate = 6
   name = "{Rina|Siti|Ayu|Dewi|Lina|Maya|Putri|Ratna|Nina|Ika}"
   message = "{{Pelayanan|Layanan} teralis.bangunan.co {sangat memuaskan|benar-benar baik|memuaskan sekali}. Pagar besi yang saya pesan {sangat berkualitas|berkualitas tinggi|luar biasa} dan {sesuai|cocok} dengan {desain|model} yang saya {inginkan|harapkan|impikan}|Pelayanan dari teralis.bangunan.co {sangat memuaskan|benar-benar baik|memuaskan sekali}. Pagar besi yang saya pesan berkualitas tinggi dan {sesuai|cocok} dengan {desain|model} yang saya {impikan|harapkan|inginkan}}."
   response = "{Terima kasih! Kami {senang|gembira} dapat membantu mewujudkan {desain|model} yang Anda {impikan|inginkan} dengan pagar besi {berkualitas|yang berkualitas}|Terima kasih! Kami {senang|gembira} bisa membantu mewujudkan {desain|model} yang Anda {inginkan|harapkan} dengan pagar besi {berkualitas|yang berkualitas}}."
-  rating = 4.6
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar6.png"
   name = "{Eko|Budi|Andi|Rudi|Agus|Fajar|Dedi|Hendra|Samsul|Joko}"
   message = "{Teralis besi dari teralis.bangunan.co {sangat sesuai|cocok|tepat} untuk {melindungi|menjaga|merawat} jendela {rumah|hunian} saya. Proses pemasangan {cepat|lancar|efisien} dan {profesional|sangat profesional|berkualitas}|Teralis besi yang saya beli dari teralis.bangunan.co {sangat cocok|sangat sesuai|tepat} untuk {melindungi|menjaga|merawat} jendela {rumah|hunian} saya. Proses pemasangannya {cepat|lancar|efisien} dan {sangat profesional|profesional|berkualitas}}."
   response = "{Kami {senang|gembira|bahagia} mendengar bahwa Anda {puas|senang|terkesan} dengan produk kami. Terima kasih atas {ulasannya|feedbacknya|tanggapan Anda}!|Kami {sangat|amat} senang mendengar bahwa Anda {puas|senang|terkesan} dengan produk kami. Terima kasih untuk {ulasan positifnya|feedback positifnya|tanggapan baik Anda!}}"
-  rating = 4.9
+  rating = 4
 
 [[params.tabelItems]]
   name = "Teralis Jendela"
