@@ -1,58 +1,55 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Hendra
+    name: Andi
     message: >-
-      Saya memakai layanan instalasi teralis dari teralis.bangunan.co untuk
-      hunian saya. Hasilnya benar-benar rapi dan kualitasnya hebat.
+      Saya memakai layanan pemasangan teralis dari teralis.bangunan.co untuk
+      hunian saya. Hasilnya benar-benar memuaskan dan kualitasnya hebat.
     response: >-
-      Kami menghargai kepercayaan Anda! Senang bisa menyediakan teralis
+      Kami menghargai kepercayaan Anda! Senang bisa menyediakan teralis yang
       berkualitas untuk rumah Anda.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Dewi
+    name: Siti
     message: >-
-      teralis.bangunan.co benar-benar membantu saya dalam mencari dan melakukan
-      pemasangan pagar besi yang sesuai dengan keperluan rumah saya.
-      Pelayanannya sangat memuaskan.
+      teralis.bangunan.co sangat membantu saya dalam mencari dan memasang pagar
+      besi yang tepat untuk hunian saya. Pelayanannya memuaskan sekali.
     response: >-
-      Kami amat menghargai ulasan Anda. Senang mendengar bahwa Anda terkesan
-      dengan pagar besi dari kami
+      Kami menghargai feedback. Senang mengetahui Anda puas dengan pagar besi
+      yang kami sediakan.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Agus
-    message: >-
-      Pagar besi yang saya beli dari teralis.bangunan.co cocok untuk proyek ruko
-      saya. Pemasangannya efisien dan hasilnya memuaskan.
-    response: >-
-      Terima kasih! Kami siap untuk memberikan layanan dan produk berkualitas
-      untuk proyek Anda.
-    rating: 4
-  - avatar: /images/admin/avatar4.png
     name: Hendra
     message: >-
-      Saya sangat senang dengan hasil instalasi teralis dari
-      teralis.bangunan.co. Rumah saya sekarang tampak lebih aman dan berkesan
-      modern.
+      Pagar besi dari teralis.bangunan.co cocok sekali untuk proyek ruko saya.
+      Pemasangannya lancar dan hasilnya baik.
+    response: >-
+      Terima kasih! Kami berkomitmen untuk memberikan layanan dan produk yang
+      berkualitas untuk proyek Anda.
+    rating: 4
+  - avatar: /images/admin/avatar4.png
+    name: Andi
+    message: >-
+      Saya benar-benar senang dengan hasil pemasangan teralis dari
+      teralis.bangunan.co. Rumah saya sekarang lebih aman dan berkesan modern.
     response: >-
       Kami senang mendengar bahwa Anda terkesan dengan layanan kami. Terima
       kasih atas kepercayaan!
     rating: 5
   - avatar: /images/admin/avatar5.png
-    name: Ayu
+    name: Rina
     message: >-
       Pelayanan dari teralis.bangunan.co memuaskan sekali. Pagar besi yang saya
-      pesan berkualitas tinggi dan cocok dengan desain yang saya harapkan.
+      pesan berkualitas tinggi dan cocok dengan model yang saya inginkan.
     response: >-
-      Terima kasih! Kami gembira dapat membantu mewujudkan model yang Anda
-      impikan dengan pagar besi yang berkualitas.
+      Terima kasih! Kami senang bisa membantu mewujudkan model yang Anda
+      inginkan dengan pagar besi yang berkualitas.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Agus
+    name: Budi
     message: >-
-      Teralis besi yang saya beli dari teralis.bangunan.co sangat sesuai untuk
-      menjaga jendela hunian saya. Proses pemasangannya efisien dan sangat
-      profesional.
+      Teralis besi dari teralis.bangunan.co tepat untuk menjaga jendela rumah
+      saya. Proses pemasangan efisien dan berkualitas.
     response: >-
-      Kami sangat senang mendengar bahwa Anda puas dengan produk kami. Terima
-      kasih untuk tanggapan baik Anda!
+      Kami bahagia mendengar bahwa Anda terkesan dengan produk kami. Terima
+      kasih atas feedbacknya!
     rating: 4
