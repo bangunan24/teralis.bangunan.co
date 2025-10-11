@@ -1,56 +1,56 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Joko
+    name: Samsul
     message: >-
-      Saya memakai layanan instalasi teralis dari teralis.bangunan.co untuk
-      rumah saya. Hasilnya benar-benar rapi dan kualitasnya hebat.
+      Saya memanfaatkan layanan instalasi teralis dari teralis.bangunan.co untuk
+      hunian saya. Hasilnya benar-benar memuaskan dan kualitasnya luar biasa.
     response: >-
-      Terima kasih atas kepercayaan Anda! Kami bahagia dapat menyediakan teralis
-      yang berkualitas untuk rumah Anda
+      Kami menghargai kepercayaan Anda! Senang bisa menyediakan teralis yang
+      berkualitas untuk rumah Anda.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Ayu
+    name: Putri
     message: >-
-      teralis.bangunan.co benar-benar membantu saya dalam mencari dan melakukan
-      pemasangan pagar besi yang cocok dengan kebutuhan rumah saya. Pelayanannya
-      memuaskan sekali.
+      teralis.bangunan.co sangat membantu saya dalam mencari dan memasang pagar
+      besi yang cocok dengan keperluan rumah saya. Pelayanannya benar-benar
+      memuaskan.
     response: >-
-      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda terkesan
-      dengan pagar besi dari kami
+      Kami menghargai feedback. Senang mengetahui Anda terkesan dengan pagar
+      besi yang kami sediakan.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Hendra
+    name: Joko
     message: >-
-      Pagar besi dari teralis.bangunan.co sangat cocok untuk proyek ruko saya.
-      Pemasangannya cepat dan hasilnya baik.
+      Pagar besi dari teralis.bangunan.co cocok sekali untuk proyek ruko saya.
+      Pemasangannya cepat dan hasilnya memuaskan.
     response: >-
-      Terima kasih! Kami berkomitmen untuk menyediakan layanan dan produk
-      berkualitas untuk proyek Anda
+      Terima kasih! Kami berkomitmen untuk memberikan layanan dan produk
+      berkualitas untuk proyek Anda.
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Agus
-    message: >-
-      Saya sangat senang dengan hasil instalasi teralis dari
-      teralis.bangunan.co. Rumah saya kini tampak lebih aman dan tampak modern.
-    response: >-
-      Senang mendengar Anda puas dengan layanan kami. Terima kasih atas
-      kepercayaannya!
-    rating: 5
-  - avatar: /images/admin/avatar5.png
-    name: Nina
-    message: >-
-      Pelayanan dari teralis.bangunan.co memuaskan sekali. Pagar besi yang saya
-      pesan berkualitas tinggi dan sesuai dengan model yang saya harapkan.
-    response: >-
-      Terima kasih! Kami senang dapat membantu mewujudkan desain yang Anda
-      impikan dengan pagar besi berkualitas.
-    rating: 4
-  - avatar: /images/admin/avatar6.png
     name: Dedi
     message: >-
-      Teralis besi yang saya beli dari teralis.bangunan.co sangat cocok untuk
-      menjaga jendela hunian saya. Proses pemasangannya efisien dan berkualitas.
+      Saya merasa puas dengan hasil instalasi teralis dari teralis.bangunan.co.
+      Rumah saya sekarang tampak lebih aman dan berkesan modern.
     response: >-
-      Kami senang mendengar bahwa Anda senang dengan produk kami. Terima kasih
-      atas feedbacknya!
+      Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih
+      atas kepercayaan Anda!
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Lina
+    message: >-
+      Layanan teralis.bangunan.co memuaskan sekali. Pagar besi yang saya pesan
+      berkualitas tinggi dan sesuai dengan desain yang saya harapkan.
+    response: >-
+      Terima kasih! Kami gembira dapat membantu mewujudkan model yang Anda
+      inginkan dengan pagar besi berkualitas.
+    rating: 4
+  - avatar: /images/admin/avatar6.png
+    name: Agus
+    message: >-
+      Teralis besi dari teralis.bangunan.co cocok untuk merawat jendela hunian
+      saya. Proses pemasangan cepat dan sangat profesional.
+    response: >-
+      Kami bahagia mendengar bahwa Anda puas dengan produk kami. Terima kasih
+      atas tanggapan Anda!
     rating: 4
