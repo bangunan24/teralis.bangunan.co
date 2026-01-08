@@ -1,56 +1,57 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Andi
-    message: >-
-      Saya menggunakan layanan instalasi teralis dari teralis.bangunan.co untuk
-      rumah saya. Hasilnya benar-benar rapi dan kualitasnya sangat baik.
-    response: >-
-      Kami menghargai kepercayaan Anda! Senang bisa menyediakan teralis
-      berkualitas untuk rumah Anda.
-    rating: 4
-  - avatar: /images/admin/avatar2.png
-    name: Siti
-    message: >-
-      teralis.bangunan.co benar-benar membantu saya dalam memilih dan melakukan
-      pemasangan pagar besi yang cocok dengan keperluan rumah saya. Pelayanannya
-      memuaskan sekali.
-    response: >-
-      Kami amat menghargai ulasan Anda. Senang mendengar bahwa Anda terkesan
-      dengan pagar besi dari kami
-    rating: 4
-  - avatar: /images/admin/avatar3.png
     name: Budi
     message: >-
-      Pagar besi dari teralis.bangunan.co sangat cocok untuk proyek ruko saya.
-      Pemasangannya lancar dan hasilnya sangat memuaskan.
+      Saya memanfaatkan layanan instalasi teralis dari teralis.bangunan.co untuk
+      rumah saya. Hasilnya sangat rapi dan kualitasnya luar biasa.
     response: >-
-      Terima kasih! Kami berkomitmen untuk memberikan layanan dan produk yang
-      berkualitas untuk proyek Anda.
+      Terima kasih atas kepercayaan! Kami gembira dapat menyediakan teralis
+      berkualitas untuk hunian Anda
     rating: 4
-  - avatar: /images/admin/avatar4.png
+  - avatar: /images/admin/avatar2.png
+    name: Ayu
+    message: >-
+      teralis.bangunan.co sangat membantu saya dalam memilih dan melakukan
+      pemasangan pagar besi yang sesuai dengan keperluan rumah saya.
+      Pelayanannya sangat memuaskan.
+    response: >-
+      Kami menghargai ulasannya. Senang mengetahui Anda puas dengan pagar besi
+      yang kami sediakan.
+    rating: 4
+  - avatar: /images/admin/avatar3.png
     name: Eko
     message: >-
-      Saya sangat puas dengan hasil instalasi teralis dari teralis.bangunan.co.
-      Rumah saya sekarang lebih aman dan terlihat modern.
+      Pagar besi dari teralis.bangunan.co tepat untuk proyek ruko saya.
+      Pemasangannya cepat dan hasilnya baik.
     response: >-
-      Kami senang mendengar bahwa Anda terkesan dengan layanan kami. Terima
-      kasih atas kepercayaan!
+      Terima kasih! Kami berkomitmen untuk menyediakan layanan dan produk yang
+      berkualitas untuk proyek Anda
+    rating: 4
+  - avatar: /images/admin/avatar4.png
+    name: Hendra
+    message: >-
+      Saya merasa puas dengan hasil instalasi teralis dari teralis.bangunan.co.
+      Rumah saya sekarang menjadi lebih aman dan tampak modern.
+    response: >-
+      Senang mendengar Anda senang dengan layanan kami. Terima kasih atas
+      kepercayaan Anda!
     rating: 5
   - avatar: /images/admin/avatar5.png
-    name: Putri
+    name: Lina
     message: >-
-      Pelayanan dari teralis.bangunan.co benar-benar baik. Pagar besi yang saya
-      pesan berkualitas tinggi dan sesuai dengan model yang saya impikan.
+      Pelayanan dari teralis.bangunan.co memuaskan sekali. Pagar besi yang saya
+      pesan berkualitas tinggi dan cocok dengan model yang saya inginkan.
     response: >-
-      Terima kasih! Kami senang dapat membantu mewujudkan model yang Anda
-      impikan dengan pagar besi berkualitas.
+      Terima kasih! Kami senang bisa membantu mewujudkan model yang Anda
+      harapkan dengan pagar besi berkualitas.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Rudi
+    name: Hendra
     message: >-
-      Teralis besi dari teralis.bangunan.co cocok untuk merawat jendela rumah
-      saya. Proses pemasangan cepat dan profesional.
+      Teralis besi yang saya beli dari teralis.bangunan.co sangat cocok untuk
+      menjaga jendela hunian saya. Proses pemasangannya cepat dan sangat
+      profesional.
     response: >-
-      Kami amat senang mendengar bahwa Anda terkesan dengan produk kami. Terima
-      kasih untuk feedback positifnya
+      Kami senang mendengar bahwa Anda terkesan dengan produk kami. Terima kasih
+      atas ulasannya!
     rating: 4
