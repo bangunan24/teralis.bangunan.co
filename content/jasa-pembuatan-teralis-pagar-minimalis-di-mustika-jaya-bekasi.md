@@ -1,6 +1,6 @@
 ---
 title: Jasa Pembuatan Teralis & Pagar Minimalis di Mustika Jaya Bekasi
-date: '2025-09-01'
+date: '2026-09-01'
 categories:
   - biaya
 description: >-
